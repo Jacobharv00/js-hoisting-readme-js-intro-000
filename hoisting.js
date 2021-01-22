@@ -10,9 +10,9 @@ function callMe() {
 
 
 
-function thisIsCrazy() {
-  var crazy = 'hey!!!'
-  var crazy = funtion() {
+function crazy() {
+  var thisIsCrazy = 'hey!!!'
+funtion thisIsCrazy() {
       console.log('hey!!!')
   }
  }
