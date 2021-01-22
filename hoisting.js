@@ -9,7 +9,7 @@ function callMe() {
 }
 
 function crazy() {
-var thisIsCrazy = function() {
+ thisIsCrazy = function() {
   // fix the code in here:
   thisIsCrazy();
     console.log("hey!!!")
