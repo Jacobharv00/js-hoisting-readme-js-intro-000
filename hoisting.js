@@ -6,7 +6,6 @@ function callMe() {
   console.log("but here's my number..");
   console.log("so call me");
   return lyric;
-
 }
 //1. get function callMe to return 'maybe'
 
