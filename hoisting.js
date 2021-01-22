@@ -7,16 +7,18 @@ function callMe() {
   console.log("so call me");
   return lyric;
 }
-//1. get function callMe to return 'maybe'
 
 function crazy() {
+  function thisIsCrazy("hey!!!") {
   // fix the code in here:
   thisIsCrazy();
 
   var thisIsCrazy = function (){
     console.log("hey!!!")
+    }
   }
 }
+
 
 function sayMyName() {
   // fix the code in here:
